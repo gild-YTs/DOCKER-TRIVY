@@ -1,8 +1,10 @@
+#!/bin/bash
+############################################
 # 01-installation-Docker.sh
-# contexte
+# contexte :
 # installation de Docker sur ubuntu 20.04
-# Etapes
-
+# Etapes :
+############################################
 # ---------------------------------------------------------------
 # 1. supprimer les anciennes versions (si elles existent)
 # ---------------------------------------------------------------

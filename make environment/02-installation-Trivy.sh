@@ -1,8 +1,10 @@
+#!/bin/bash
+############################################
 # 02-installation-Trivy.sh
-# contexte
+# contexte :
 # installation de Trivy sur ubuntu 20.04
-# Etapes
-
+# Etapes :
+############################################
 #Mettre à jour la liste des paquets
 sudo apt update
 
