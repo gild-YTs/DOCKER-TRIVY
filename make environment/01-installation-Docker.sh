@@ -2,7 +2,7 @@
 ############################################
 # 01-installation-Docker.sh
 # contexte :
-# installation de Docker sur ubuntu 20.04
+# installation de Docker sur ubuntu 24.04.3 LTS
 # Etapes :
 ############################################
 # ---------------------------------------------------------------

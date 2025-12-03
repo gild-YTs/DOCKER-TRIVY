@@ -2,7 +2,7 @@
 ############################################
 # 02-installation-Trivy.sh
 # contexte :
-# installation de Trivy sur ubuntu 20.04
+# installation de Trivy sur ubuntu 24.04.3 LTS
 # Etapes :
 ############################################
 #Mettre à jour la liste des paquets
