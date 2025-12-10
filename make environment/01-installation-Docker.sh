@@ -131,8 +131,8 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 # ---------------------------------------------------------------
     # vérifier la version installée,
       docker --version
-    # tester l’exécution d’un conteneur,
-      sudo docker run hello-world
-    # confirmer que le daemon Docker fonctionne correctement.
+       # confirmer que le daemon Docker fonctionne correctement.
       sudo systemctl status docker
+    # tester l’exécution d’un conteneur,
+      sudo docker run hello-world  
  #Si tout va bien, Docker télécharge une petite image et affiche un message de succès.
